@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="emeter" label="Emeter" language="en" table="x_1299271_energy_energy_emeter">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>emeter</element>
+            <help/>
+            <hint/>
+            <label>Emeter</label>
+            <language>en</language>
+            <name>x_1299271_energy_energy_emeter</name>
+            <plural>Emeters</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-05 06:41:05</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Emeter</sys_name>
+            <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+            <sys_update_name>sys_documentation_x_1299271_energy_energy_emeter_emeter_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-05 06:41:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

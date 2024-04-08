@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1c9686fa47110210bae1a22f316d43fd" label="Energy Emeter" max_length="40" name="x_1299271_energy_energy_emeter" type="collection">
+        <element display="true" label="Emeter" max_length="40" name="emeter" type="string"/>
+        <element label="Location" max_length="40" name="location" type="string"/>
+    </element>
+</database>

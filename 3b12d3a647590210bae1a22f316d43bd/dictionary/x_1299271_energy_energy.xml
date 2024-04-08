@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="82325f6a47590210bae1a22f316d4360" label="Energy" max_length="40" name="x_1299271_energy_energy" type="collection">
+        <element label="Date" max_length="40" name="date" type="glide_date_time"/>
+        <element display="true" label="Emeter" max_length="32" name="emeter" reference="x_1299271_energy_energy_emeter" type="reference"/>
+        <element label="Emeter value kWh" max_length="15" name="emeter_value" type="decimal"/>
+        <index name="index">
+            <element name="emeter"/>
+        </index>
+    </element>
+</database>
