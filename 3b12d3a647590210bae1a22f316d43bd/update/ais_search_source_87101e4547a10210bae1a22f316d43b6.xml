@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_source">
+    <ais_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <datasource display_value="">x_1299271_energy_energy_emeter</datasource>
+        <name>Energy Emeter</name>
+        <sys_class_name>ais_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 07:05:26</sys_created_on>
+        <sys_id>87101e4547a10210bae1a22f316d43b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Energy Emeter</sys_name>
+        <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+        <sys_update_name>ais_search_source_87101e4547a10210bae1a22f316d43b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 07:05:26</sys_updated_on>
+    </ais_search_source>
+</record_update>

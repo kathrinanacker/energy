@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Energy App Config">65109a45b0a102107ec48ce57a312fdc</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings/>
+        <macroponent display_value="Dashboard overview">a6a8b88ec3702010ec37e0dd9740dd43</macroponent>
+        <macroponent_config/>
+        <name>Dashboard Library Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Dashboard Library">dd109a453ba10210671f60cd4596c5b9</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 07:05:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>59109a45e9a1021048da6b67cb31b4b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboard Library Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+        <sys_update_name>sys_ux_screen_59109a45e9a1021048da6b67cb31b4b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 07:05:20</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=59109a45e9a1021048da6b67cb31b4b9"/>
+</record_update>

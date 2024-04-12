@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource_field_attribute">
+    <ais_datasource_field_attribute action="INSERT_OR_UPDATE">
+        <attribute display_value="map_to">f734a634c7320010d1cfd9795cc26094</attribute>
+        <datasource display_value="Energy Table">03101e4547a10210bae1a22f316d4396</datasource>
+        <field>sys_updated_on</field>
+        <source>x_1299271_energy_energy</source>
+        <sys_class_name>ais_datasource_field_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 07:05:25</sys_created_on>
+        <sys_id>0f101e4547a10210bae1a22f316d43ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1299271_energy_energy.sys_updated_on</sys_name>
+        <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+        <sys_update_name>ais_datasource_field_attribute_0f101e4547a10210bae1a22f316d43ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 07:05:25</sys_updated_on>
+        <value>sort_by_date</value>
+    </ais_datasource_field_attribute>
+</record_update>
