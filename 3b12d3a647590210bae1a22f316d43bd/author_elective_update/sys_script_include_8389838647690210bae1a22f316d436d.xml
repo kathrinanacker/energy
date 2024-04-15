@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1299271_energy.GetnowDateTime</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description>Script Include to return nowDateTime.</description>
+        <name>GetnowDateTime</name>
+        <script><![CDATA[var MyDateTimeAjax = Class.create();
+MyDateTimeAjax.prototype = Object.extendsObject(AbstractAjaxProcessor,{
+  nowDateTime:function(){
+    return gs.nowDateTime();}});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-15 14:01:30</sys_created_on>
+        <sys_id>8389838647690210bae1a22f316d436d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GetnowDateTime</sys_name>
+        <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+        <sys_update_name>sys_script_include_8389838647690210bae1a22f316d436d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-15 14:01:30</sys_updated_on>
+    </sys_script_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Energy">3b12d3a647590210bae1a22f316d43bd</application>
+        <file_path/>
+        <instance_id>d225d122dbaafd1002d9172913961913</instance_id>
+        <instance_name>dev217368</instance_name>
+        <name>sys_script_include_8389838647690210bae1a22f316d436d</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_1299271_energy.GetnowDateTime&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description&gt;Script Include to return nowDateTime.&lt;/description&gt;&lt;name&gt;GetnowDateTime&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var MyDateTimeAjax = Class.create();
+MyDateTimeAjax.prototype = Object.extendsObject(AbstractAjaxProcessor,{
+  nowDateTime:function(){
+    return gs.nowDateTime();}});]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-04-15 14:01:30&lt;/sys_created_on&gt;&lt;sys_id&gt;8389838647690210bae1a22f316d436d&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;GetnowDateTime&lt;/sys_name&gt;&lt;sys_package display_value="Energy" source="x_1299271_energy"&gt;3b12d3a647590210bae1a22f316d43bd&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="Energy"&gt;3b12d3a647590210bae1a22f316d43bd&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_8389838647690210bae1a22f316d436d&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-04-15 14:01:30&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>538166254</payload_hash>
+        <record_name>GetnowDateTime</record_name>
+        <reverted_from/>
+        <source>de6f9b3f47190210bae1a22f316d4398</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-15 14:01:31</sys_created_on>
+        <sys_id>ab1c474a47690210bae1a22f316d43be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ee2101f7e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-15 14:01:31</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>af1c474a28690210c0221da751a518bd</update_guid>
+        <update_guid_history>af1c474a28690210c0221da751a518bd:538166254</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-15 14:07:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>06880485fc294cefa282338cdbcb4a31</sys_id>
+        <sys_metadata>8389838647690210bae1a22f316d436d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GetnowDateTime</sys_name>
+        <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+        <sys_parent/>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+        <sys_scope_delete display_value="">1f6829bea4f744708a24879366440c10</sys_scope_delete>
+        <sys_update_name>sys_script_include_8389838647690210bae1a22f316d436d</sys_update_name>
+        <sys_update_version display_value="sys_script_include_8389838647690210bae1a22f316d436d">ab1c474a47690210bae1a22f316d43be</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-15 14:07:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

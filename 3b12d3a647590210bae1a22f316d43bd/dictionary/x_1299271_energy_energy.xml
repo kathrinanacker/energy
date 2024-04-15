@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="82325f6a47590210bae1a22f316d4360" label="Energy" max_length="40" name="x_1299271_energy_energy" text_index="true" type="collection">
-        <element label="Date" max_length="40" name="date" type="glide_date_time"/>
+        <element default="javascript:gs.nowDateTime()" dynamic_default_value="79cb83a85f220100a9ad2572f2b4773c" label="Date" max_length="40" name="date" type="glide_date_time" use_dynamic_default="true"/>
         <element display="true" label="Emeter" max_length="32" name="emeter" reference="x_1299271_energy_energy_emeter" type="reference"/>
         <element label="Emeter value kWh" max_length="15" name="emeter_value" type="decimal"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
