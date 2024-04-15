@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="2c67164647650210bae1a22f316d43e6" sys_domain="global" table="x_1299271_energy_energy_emeter" version="3" view="workspace-energy-workspace-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-15 10:11:07</sys_created_on>
+            <sys_id>6067164647650210bae1a22f316d43e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1299271_energy_energy_emeter" sys_domain="global" view="86579246836502109765671e0b19514c">2c67164647650210bae1a22f316d43e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-15 10:11:07</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>emeter</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-15 10:11:07</sys_created_on>
+            <sys_id>6467164647650210bae1a22f316d43e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1299271_energy_energy_emeter" sys_domain="global" view="86579246836502109765671e0b19514c">2c67164647650210bae1a22f316d43e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-15 10:11:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-15 10:11:07</sys_created_on>
+            <sys_id>e867164647650210bae1a22f316d43e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1299271_energy_energy_emeter" sys_domain="global" view="86579246836502109765671e0b19514c">2c67164647650210bae1a22f316d43e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-15 10:11:07</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-15 10:11:07</sys_created_on>
+            <sys_id>e467164647650210bae1a22f316d43e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1299271_energy_energy_emeter" sys_domain="global" view="86579246836502109765671e0b19514c">2c67164647650210bae1a22f316d43e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-15 10:11:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-15 10:11:07</sys_created_on>
+            <sys_id>6c67164647650210bae1a22f316d43e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1299271_energy_energy_emeter" sys_domain="global" view="86579246836502109765671e0b19514c">2c67164647650210bae1a22f316d43e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-15 10:11:07</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1299271_energy_energy_emeter</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-15 10:11:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c67164647650210bae1a22f316d43e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1299271_energy_energy_emeter</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+            <sys_update_name>sys_ui_section_2c67164647650210bae1a22f316d43e6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-15 10:11:07</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Energy Workspace 0" name="workspace-energy-workspace-0">86579246836502109765671e0b19514c</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

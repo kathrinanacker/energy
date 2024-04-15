@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard">
+    <par_dashboard action="DELETE">
+        <active>true</active>
+        <certified>false</certified>
+        <description/>
+        <experience/>
+        <grid>48</grid>
+        <name>Energy App</name>
+        <sys_class_name>par_dashboard</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 07:05:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>21109a4556a10210a04406234c891fd5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Energy App</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+        <sys_update_name>par_dashboard_21109a4556a10210a04406234c891fd5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 08:59:21</sys_updated_on>
+        <sys_ux_app_config/>
+        <sys_ux_app_route/>
+        <sys_ux_macroponent/>
+        <sys_ux_screen/>
+        <sys_ux_screen_type/>
+    </par_dashboard>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Energy">3b12d3a647590210bae1a22f316d43bd</application>
+        <file_path/>
+        <instance_id>d225d122dbaafd1002d9172913961913</instance_id>
+        <instance_name>dev217368</instance_name>
+        <name>par_dashboard_21109a4556a10210a04406234c891fd5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard"><par_dashboard action="INSERT_OR_UPDATE"><active>true</active><certified>false</certified><description/><experience/><grid>48</grid><name>Energy App</name><sys_class_name>par_dashboard</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-12 07:05:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>21109a4556a10210a04406234c891fd5</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Energy App</sys_name><sys_overrides/><sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package><sys_policy/><sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope><sys_update_name>par_dashboard_21109a4556a10210a04406234c891fd5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-12 08:59:21</sys_updated_on><sys_ux_app_config/><sys_ux_app_route/><sys_ux_macroponent/><sys_ux_screen/><sys_ux_screen_type/></par_dashboard></record_update>]]></payload>
+        <payload_hash>-823892032</payload_hash>
+        <record_name>Energy App</record_name>
+        <reverted_from/>
+        <source>de6f9b3f47190210bae1a22f316d4398</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 08:59:21</sys_created_on>
+        <sys_id>f72aeac547250210bae1a22f316d4369</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ed18867820000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 08:59:21</sys_updated_on>
+        <type>PAR Dashboard</type>
+        <update_guid>bf2aeac54e2502103819792a4eba7f68</update_guid>
+        <update_guid_history>bf2aeac54e2502103819792a4eba7f68:-823892032,ff2a62c581250210f26bbc49f422e832:-2020812990</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Energy App">1721167547adc210bae1a22f316d4340</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-14 15:05:33</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard">par_dashboard</sys_db_object>
+        <sys_id>20ffbd76f755484aa4d8f26a81e87319</sys_id>
+        <sys_metadata>21109a4556a10210a04406234c891fd5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Energy App</sys_name>
+        <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+        <sys_scope_delete display_value="">1f6829bea4f744708a24879366440c10</sys_scope_delete>
+        <sys_update_name>par_dashboard_21109a4556a10210a04406234c891fd5</sys_update_name>
+        <sys_update_version display_value="par_dashboard_21109a4556a10210a04406234c891fd5">f72aeac547250210bae1a22f316d4369</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-14 15:05:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

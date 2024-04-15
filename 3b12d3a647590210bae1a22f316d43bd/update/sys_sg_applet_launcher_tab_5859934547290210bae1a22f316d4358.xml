@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Emeter">1059934547290210bae1a22f316d4357</applet_launcher>
+        <icon display_value="Request">9459934547290210bae1a22f316d4355</icon>
+        <label>Emeter</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 12:25:16</sys_created_on>
+        <sys_id>5859934547290210bae1a22f316d4358</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Emeter</sys_name>
+        <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_5859934547290210bae1a22f316d4358</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 12:25:16</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

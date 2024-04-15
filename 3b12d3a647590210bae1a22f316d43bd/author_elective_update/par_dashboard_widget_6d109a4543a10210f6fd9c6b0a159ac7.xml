@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">a9109a45d7a102102976ba2456884ed4</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"x_1299271_energy_energy","fixedQuery":"","listTitle":"All Emeter Records","columns":"","query":"","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"refreshRequested":"","noDebounce":"","limit":12}</component_props>
+        <h>30</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 07:05:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6d109a4543a10210f6fd9c6b0a159ac7</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+        <sys_update_name>par_dashboard_widget_6d109a4543a10210f6fd9c6b0a159ac7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-14 15:05:08</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>45</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Energy">3b12d3a647590210bae1a22f316d43bd</application>
+        <file_path/>
+        <instance_id>d225d122dbaafd1002d9172913961913</instance_id>
+        <instance_name>dev217368</instance_name>
+        <name>par_dashboard_widget_6d109a4543a10210f6fd9c6b0a159ac7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">a9109a45d7a102102976ba2456884ed4</canvas><component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component><component_props>{"table":"x_1299271_energy_energy","fixedQuery":"","listTitle":"All Emeter Records","columns":"","query":"","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"refreshRequested":"","noDebounce":"","limit":12}</component_props><h>30</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-12 07:05:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6d109a4543a10210f6fd9c6b0a159ac7</sys_id><sys_mod_count>7</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package><sys_policy/><sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope><sys_update_name>par_dashboard_widget_6d109a4543a10210f6fd9c6b0a159ac7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-14 15:05:08</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>45</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-1749071124</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>de6f9b3f47190210bae1a22f316d4398</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-14 15:05:09</sys_created_on>
+        <sys_id>b911527547adc210bae1a22f316d43be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18edd2404970000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-14 15:05:09</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>71115275bcadc2107a891855269412be</update_guid>
+        <update_guid_history>71115275bcadc2107a891855269412be:-1749071124,defa324d0f6502108e9ed6ee3218cb2f:780171664,a6f86a0503250210611e1eea609d1171:627715913,d05c5205f2e10210a84e5c5f0884d528:-1469213256,6c379e8d53a102105a20059790b5f917:-444519335,2da1120907a10210528fdc217255e60b:35335611,62101e4501a10210b519bd5d0cff3b0d:940737277,6210da453da102106a0453d446f590e6:-1501752047</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">a721167547adc210bae1a22f316d436b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-14 15:05:32</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>3db35d1075ad4f02adfc01b520188709</sys_id>
+        <sys_metadata>6d109a4543a10210f6fd9c6b0a159ac7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+        <sys_scope_delete display_value="">1f6829bea4f744708a24879366440c10</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_6d109a4543a10210f6fd9c6b0a159ac7</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_6d109a4543a10210f6fd9c6b0a159ac7">b911527547adc210bae1a22f316d43be</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-14 15:05:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

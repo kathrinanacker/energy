@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <max_offline_rows>500</max_offline_rows>
+        <name>Available Emeter Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="Available Emeter">2459934547290210bae1a22f316d439c</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 12:25:17</sys_created_on>
+        <sys_id>6459934547290210bae1a22f316d43a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Available Emeter Item Stream Segment</sys_name>
+        <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_6459934547290210bae1a22f316d43a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 12:25:17</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

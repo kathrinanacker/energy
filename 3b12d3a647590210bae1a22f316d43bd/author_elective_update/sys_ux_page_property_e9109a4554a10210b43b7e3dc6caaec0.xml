@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Main Configuration</description>
+        <name>chrome_main</name>
+        <page display_value="">a5109a4588a102100b0e706a3ca129db</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 07:05:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e9109a4554a10210b43b7e3dc6caaec0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_main</sys_name>
+        <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+        <sys_update_name>sys_ux_page_property_e9109a4554a10210b43b7e3dc6caaec0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 07:05:19</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1299271_energy.a5109a4588a102100b0e706a3ca129db.root.chrome_main</unique_name>
+        <value>{&#13;
+  "maxCachedPageCount": 5,&#13;
+  "maxActivePageCount": 3,&#13;
+  "timeLeftWarning": 15&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Energy">3b12d3a647590210bae1a22f316d43bd</application>
+        <file_path/>
+        <instance_id>d225d122dbaafd1002d9172913961913</instance_id>
+        <instance_name>dev217368</instance_name>
+        <name>sys_ux_page_property_e9109a4554a10210b43b7e3dc6caaec0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Main Configuration</description><name>chrome_main</name><page display_value="">a5109a4588a102100b0e706a3ca129db</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-12 07:05:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e9109a4554a10210b43b7e3dc6caaec0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_main</sys_name><sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package><sys_policy/><sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope><sys_update_name>sys_ux_page_property_e9109a4554a10210b43b7e3dc6caaec0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-12 07:05:19</sys_updated_on><type>json</type><unique_name>x_1299271_energy.a5109a4588a102100b0e706a3ca129db.root.chrome_main</unique_name><value>{&#13;
+  "maxCachedPageCount": 5,&#13;
+  "maxActivePageCount": 3,&#13;
+  "timeLeftWarning": 15&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>1249061735</payload_hash>
+        <record_name>chrome_main</record_name>
+        <reverted_from/>
+        <source>81061a2047210210bae1a22f316d4329</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-04-10 18:14:15</sys_created_on>
+        <sys_id>469d7dc247e10210bae1a22f316d43c8</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18ec937b4d80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>069d7dc2ade10210cbd9533b7ba14fc8</update_guid>
+        <update_guid_history>069d7dc2ade10210cbd9533b7ba14fc8:1249061735</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-15 08:18:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>820558de95aa4d4f966d6d1437a80b39</sys_id>
+        <sys_metadata>e9109a4554a10210b43b7e3dc6caaec0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_main</sys_name>
+        <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+        <sys_scope_delete display_value="">1f6829bea4f744708a24879366440c10</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_e9109a4554a10210b43b7e3dc6caaec0</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_e9109a4554a10210b43b7e3dc6caaec0">469d7dc247e10210bae1a22f316d43c8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-15 08:18:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

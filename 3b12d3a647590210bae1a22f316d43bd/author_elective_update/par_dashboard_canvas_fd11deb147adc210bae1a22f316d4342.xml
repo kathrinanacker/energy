@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas">
+    <par_dashboard_canvas action="DELETE">
+        <dashboard display_value="Energy App">21109a4556a10210a04406234c891fd5</dashboard>
+        <dashboard_tab display_value="New Tab 1">7111deb147adc210bae1a22f316d433f</dashboard_tab>
+        <layout>[]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-14 15:05:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path/>
+        <sys_id>fd11deb147adc210bae1a22f316d4342</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+        <sys_update_name>par_dashboard_canvas_fd11deb147adc210bae1a22f316d4342</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-14 15:05:08</sys_updated_on>
+    </par_dashboard_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Energy">3b12d3a647590210bae1a22f316d43bd</application>
+        <file_path/>
+        <instance_id>d225d122dbaafd1002d9172913961913</instance_id>
+        <instance_name>dev217368</instance_name>
+        <name>par_dashboard_canvas_fd11deb147adc210bae1a22f316d4342</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas"><par_dashboard_canvas action="INSERT_OR_UPDATE"><dashboard display_value="Energy App">21109a4556a10210a04406234c891fd5</dashboard><dashboard_tab display_value="New Tab 1">7111deb147adc210bae1a22f316d433f</dashboard_tab><layout>[]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-14 15:05:08</sys_created_on><sys_domain>global</sys_domain><sys_domain_path/><sys_id>fd11deb147adc210bae1a22f316d4342</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package><sys_policy/><sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope><sys_update_name>par_dashboard_canvas_fd11deb147adc210bae1a22f316d4342</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-14 15:05:08</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+        <payload_hash>-877294853</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>de6f9b3f47190210bae1a22f316d4398</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-14 15:05:08</sys_created_on>
+        <sys_id>b911527547adc210bae1a22f316d43b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18edd2404290000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-14 15:05:08</sys_updated_on>
+        <type>PAR Dashboard Page Canvas</type>
+        <update_guid>b911deb1ceadc210adf1b4ef4354bd44</update_guid>
+        <update_guid_history>b911deb1ceadc210adf1b4ef4354bd44:-877294853</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">af21167547adc210bae1a22f316d4384</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-14 15:05:32</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_canvas">par_dashboard_canvas</sys_db_object>
+        <sys_id>1905303636a340be84cc11a13bf717c9</sys_id>
+        <sys_metadata>fd11deb147adc210bae1a22f316d4342</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+        <sys_scope_delete display_value="">1f6829bea4f744708a24879366440c10</sys_scope_delete>
+        <sys_update_name>par_dashboard_canvas_fd11deb147adc210bae1a22f316d4342</sys_update_name>
+        <sys_update_version display_value="par_dashboard_canvas_fd11deb147adc210bae1a22f316d4342">b911527547adc210bae1a22f316d43b7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-14 15:05:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

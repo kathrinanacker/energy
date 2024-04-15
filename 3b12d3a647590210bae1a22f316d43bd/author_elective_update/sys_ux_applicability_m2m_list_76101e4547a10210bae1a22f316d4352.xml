@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="DELETE">
+        <active>true</active>
+        <applicability display_value="Audience for app energy">ea10da4547a10210bae1a22f316d43dc</applicability>
+        <list/>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 07:05:24</sys_created_on>
+        <sys_id>76101e4547a10210bae1a22f316d4352</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_76101e4547a10210bae1a22f316d4352</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 07:05:24</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Energy">3b12d3a647590210bae1a22f316d43bd</application>
+        <file_path/>
+        <instance_id>d225d122dbaafd1002d9172913961913</instance_id>
+        <instance_name>dev217368</instance_name>
+        <name>sys_ux_applicability_m2m_list_76101e4547a10210bae1a22f316d4352</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list"><sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE"><active>true</active><applicability display_value="Audience for app energy">ea10da4547a10210bae1a22f316d43dc</applicability><list/><order>100</order><sys_class_name>sys_ux_applicability_m2m_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-12 07:05:24</sys_created_on><sys_id>76101e4547a10210bae1a22f316d4352</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package><sys_policy/><sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope><sys_update_name>sys_ux_applicability_m2m_list_76101e4547a10210bae1a22f316d4352</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-12 07:05:24</sys_updated_on></sys_ux_applicability_m2m_list></record_update>]]></payload>
+        <payload_hash>1885826332</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>de6f9b3f47190210bae1a22f316d4398</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-15 08:18:25</sys_created_on>
+        <sys_id>b99d7dc247e10210bae1a22f316d4308</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ee0d603280000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-15 08:18:25</sys_updated_on>
+        <type>List Applicability</type>
+        <update_guid>759d7dc213e10210e291adc251293c08</update_guid>
+        <update_guid_history>759d7dc213e10210e291adc251293c08:0,36101e4591a10210805edc50af07ff53:-97850750</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-15 08:18:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability_m2m_list">sys_ux_applicability_m2m_list</sys_db_object>
+        <sys_id>08a1337cb5f64523858f9cc4ace03721</sys_id>
+        <sys_metadata>76101e4547a10210bae1a22f316d4352</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+        <sys_scope_delete display_value="">1f6829bea4f744708a24879366440c10</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_m2m_list_76101e4547a10210bae1a22f316d4352</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_m2m_list_76101e4547a10210bae1a22f316d4352">b99d7dc247e10210bae1a22f316d4308</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-15 08:18:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

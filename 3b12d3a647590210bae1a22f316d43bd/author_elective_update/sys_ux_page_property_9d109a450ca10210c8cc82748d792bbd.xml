@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>listConfigId</name>
+        <page display_value="Energy">a5109a4588a102100b0e706a3ca129db</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 07:05:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9d109a450ca10210c8cc82748d792bbd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>listConfigId</sys_name>
+        <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+        <sys_update_name>sys_ux_page_property_9d109a450ca10210c8cc82748d792bbd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 07:05:24</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1299271_energy.a5109a4588a102100b0e706a3ca129db.root.listConfigId</unique_name>
+        <value>22101e4547a10210bae1a22f316d4332</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=9d109a450ca10210c8cc82748d792bbd"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Energy">3b12d3a647590210bae1a22f316d43bd</application>
+        <file_path/>
+        <instance_id>d225d122dbaafd1002d9172913961913</instance_id>
+        <instance_name>dev217368</instance_name>
+        <name>sys_ux_page_property_9d109a450ca10210c8cc82748d792bbd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>listConfigId</name><page display_value="Energy">a5109a4588a102100b0e706a3ca129db</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-12 07:05:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9d109a450ca10210c8cc82748d792bbd</sys_id><sys_mod_count>1</sys_mod_count><sys_name>listConfigId</sys_name><sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package><sys_policy/><sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope><sys_update_name>sys_ux_page_property_9d109a450ca10210c8cc82748d792bbd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-12 07:05:24</sys_updated_on><type>string</type><unique_name>x_1299271_energy.a5109a4588a102100b0e706a3ca129db.root.listConfigId</unique_name><value>22101e4547a10210bae1a22f316d4332</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=9d109a450ca10210c8cc82748d792bbd"/></record_update>]]></payload>
+        <payload_hash>1648759788</payload_hash>
+        <record_name>listConfigId</record_name>
+        <reverted_from/>
+        <source>de6f9b3f47190210bae1a22f316d4398</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 07:05:24</sys_created_on>
+        <sys_id>be101e4547a10210bae1a22f316d4363</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ed12015120000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 07:05:24</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>76101e4512a10210e91db73e03bb2463</update_guid>
+        <update_guid_history>76101e4512a10210e91db73e03bb2463:1648759788,f6101e45e7a10210a8c037b936f4f055:1533714684</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-15 08:18:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>3e9b39030651438ea3201b966d3ac781</sys_id>
+        <sys_metadata>9d109a450ca10210c8cc82748d792bbd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>listConfigId</sys_name>
+        <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+        <sys_scope_delete display_value="">1f6829bea4f744708a24879366440c10</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_9d109a450ca10210c8cc82748d792bbd</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_9d109a450ca10210c8cc82748d792bbd">be101e4547a10210bae1a22f316d4363</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-15 08:18:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

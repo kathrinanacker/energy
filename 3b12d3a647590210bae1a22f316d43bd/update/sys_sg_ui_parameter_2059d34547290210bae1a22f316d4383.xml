@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Emeter All Records)">e859d34547290210bae1a22f316d437f</button>
+        <button_parent_table>x_1299271_energy_energy</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>emeter</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>list</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Emeter</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>emeter</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 12:25:17</sys_created_on>
+        <sys_id>2059d34547290210bae1a22f316d4383</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Emeter</sys_name>
+        <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_2059d34547290210bae1a22f316d4383</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 12:25:17</sys_updated_on>
+        <table_name>x_1299271_energy_energy</table_name>
+        <virtual_field_value>false</virtual_field_value>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=2059d34547290210bae1a22f316d4383"/>
+</record_update>

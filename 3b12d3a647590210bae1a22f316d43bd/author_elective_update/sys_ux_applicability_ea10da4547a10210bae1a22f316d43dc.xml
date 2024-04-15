@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="DELETE">
+        <active>true</active>
+        <api_name>x_1299271_energy.Audience for app energy</api_name>
+        <description/>
+        <name>Audience for app energy</name>
+        <role_names/>
+        <roles>baa6c2fa47110210bae1a22f316d43e6,a4929ba647590210bae1a22f316d4348</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 07:05:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ea10da4547a10210bae1a22f316d43dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app energy</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+        <sys_update_name>sys_ux_applicability_ea10da4547a10210bae1a22f316d43dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 07:05:23</sys_updated_on>
+    </sys_ux_applicability>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Energy">3b12d3a647590210bae1a22f316d43bd</application>
+        <file_path/>
+        <instance_id>d225d122dbaafd1002d9172913961913</instance_id>
+        <instance_name>dev217368</instance_name>
+        <name>sys_ux_applicability_ea10da4547a10210bae1a22f316d43dc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability"><sys_ux_applicability action="INSERT_OR_UPDATE"><active>true</active><api_name>x_1299271_energy.Audience for app energy</api_name><description/><name>Audience for app energy</name><role_names/><roles>baa6c2fa47110210bae1a22f316d43e6,a4929ba647590210bae1a22f316d4348</roles><sys_class_name>sys_ux_applicability</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-12 07:05:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ea10da4547a10210bae1a22f316d43dc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Audience for app energy</sys_name><sys_overrides/><sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package><sys_policy/><sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope><sys_update_name>sys_ux_applicability_ea10da4547a10210bae1a22f316d43dc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-12 07:05:23</sys_updated_on></sys_ux_applicability></record_update>]]></payload>
+        <payload_hash>-39602779</payload_hash>
+        <record_name>Audience for app energy</record_name>
+        <reverted_from/>
+        <source>de6f9b3f47190210bae1a22f316d4398</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 07:05:23</sys_created_on>
+        <sys_id>e210da4547a10210bae1a22f316d43df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ed12011600000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 07:05:23</sys_updated_on>
+        <type>Audience</type>
+        <update_guid>a610da45d2a102104341ead4ddb248de</update_guid>
+        <update_guid_history>a610da45d2a102104341ead4ddb248de:-39602779</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-15 08:18:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability">sys_ux_applicability</sys_db_object>
+        <sys_id>0a46a173ed69442b9f62cecd0c590b21</sys_id>
+        <sys_metadata>ea10da4547a10210bae1a22f316d43dc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app energy</sys_name>
+        <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+        <sys_scope_delete display_value="">1f6829bea4f744708a24879366440c10</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_ea10da4547a10210bae1a22f316d43dc</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_ea10da4547a10210bae1a22f316d43dc">e210da4547a10210bae1a22f316d43df</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-15 08:18:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
