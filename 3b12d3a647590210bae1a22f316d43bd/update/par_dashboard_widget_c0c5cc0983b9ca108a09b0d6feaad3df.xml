@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">4e579246d565021089261cf72bc0274e</canvas>
+        <component display_value="Step">7fa5f7264941fabfb1542985da30e0b8</component>
+        <component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","showDataLabels":true,"disableTooltip":false,"showXGrid":false,"showDateRangeByDefault":false,"showYGrid":true,"hideYAxis0":false,"yAxis0Title":"kWh","yAxis0Position":"left","hideYAxis1":false,"yAxis1Position":"right","hideYAxis2":false,"yAxis2Position":"right","hideYAxis3":false,"yAxis3Position":"right","hideYAxis4":false,"yAxis4Position":"right","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendExpandToFit":false,"yAxisStyle":"default","lineStrokeWidth":"2","colorConfig":{"type":"default"},"chartVariation":"stacked","extensionType":"step","newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Energy","sourceType":"table","tableOrViewName":"x_1299271_energy_energy","filterQuery":"","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4XzEyOTkyNzFfZW5lcmd5X2VuZXJneTE3MTMxNzcxNTg3Mzk=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Emeter Values in kWh by Month since 08.02.2024","headingLevel":2,"showBorder":true,"bareBorder":false,"dataCategory":"group","telemetry":null,"showDataPassthrough":false,"refreshRequest":"","showAdditionalGroupBySelector":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4XzEyOTkyNzFfZW5lcmd5X2VuZXJneTE3MTMxNzcxNTg3Mzk=","id":"ZEdGaWJHVjRYekV5T1RreU56RmZaVzVsY21kNVgyVnVaWEpuZVRFM01UTXhOemN4TlRnM016az0xNzEzMTc3MTU5MTUz","aggregateFunction":"MAX","numberFormat":{"customFormat":false},"axisId":"primary","aggregateField":"emeter_value"}],"groupBy":[{"groupBy":[{"dataSource":"dGFibGV4XzEyOTkyNzFfZW5lcmd5X2VuZXJneTE3MTMxNzcxNTg3Mzk=","groupByField":"emeter","metric":"ZEdGaWJHVjRYekV5T1RreU56RmZaVzVsY21kNVgyVnVaWEpuZVRFM01UTXhOemN4TlRnM016az0xNzEzMTc3MTU5MTUz","isRange":false,"isChoice":false,"isPaBucket":false}],"maxNumberOfGroups":"ALL","numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"hideZeroValues":false,"disableRanges":false}],"sortBy":"value","sortByOrder":"desc","trendBy":{"trendByFrequency":"month","trendByMinuteInterval":null,"trendByFields":[{"field":"date","metric":"ZEdGaWJHVjRYekV5T1RreU56RmZaVzVsY21kNVgyVnVaWEpuZVRFM01UTXhOemN4TlRnM016az0xNzEzMTc3MTU5MTUz"}]},"showChange":null,"showChangePercentage":null,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":null,"showSparkline":null,"showMetricLabel":null,"showThreshold":false,"showComment":false,"showTotalValue":null,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":null,"enableDrilldown":true,"enableClickAndStay":false,"enableCustomEmptyState":false,"componentId":"i4r3350s","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":false,"hideDevSettings":false,"filterConfigurations":"@state.parFilters","contextMenuActions":[],"showMaximumRange":false,"allowChangeDateRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":"latest","showChangeFrom":null,"startTime":null,"endTime":null,"dateFormat":"default","noDebounce":""}</component_props>
+        <h>13</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-24 07:16:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c0c5cc0983b9ca108a09b0d6feaad3df</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
+        <sys_update_name>par_dashboard_widget_c0c5cc0983b9ca108a09b0d6feaad3df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-24 07:18:14</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>37</y>
+    </par_dashboard_widget>
+</record_update>

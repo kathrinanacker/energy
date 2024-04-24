@@ -16,16 +16,16 @@
         <source_table>u_imp_tmpl_x_1299271_energy_energy</source_table>
         <sys_class_name>sys_transform_map</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-04-14 14:46:12</sys_created_on>
-        <sys_id>dccc8afd476dc210bae1a22f316d4375</sys_id>
+        <sys_created_on>2024-04-19 05:27:35</sys_created_on>
+        <sys_id>96dc319f83a9c2108a09b0d6feaad36a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>u_imp_tmpl_x_1299271_energy_energy</sys_name>
         <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
         <sys_policy/>
         <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
-        <sys_update_name>sys_transform_map_dccc8afd476dc210bae1a22f316d4375</sys_update_name>
+        <sys_update_name>sys_transform_map_96dc319f83a9c2108a09b0d6feaad36a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-14 14:46:12</sys_updated_on>
+        <sys_updated_on>2024-04-19 05:27:35</sys_updated_on>
         <target_table>x_1299271_energy_energy</target_table>
     </sys_transform_map>
 </record_update>

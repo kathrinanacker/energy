@@ -5,7 +5,7 @@
         <coalesce_case_sensitive>false</coalesce_case_sensitive>
         <coalesce_empty_fields>false</coalesce_empty_fields>
         <date_format>yyyy-MM-dd HH:mm:ss</date_format>
-        <map display_value="u_imp_tmpl_x_1299271_energy_energy">dccc8afd476dc210bae1a22f316d4375</map>
+        <map display_value="u_imp_tmpl_x_1299271_energy_energy">96dc319f83a9c2108a09b0d6feaad36a</map>
         <reference_value_field/>
         <source_field>u_emeter_value_kwh</source_field>
         <source_script><![CDATA[answer = (function transformEntry(source) {
@@ -17,16 +17,16 @@
         <source_table>u_imp_tmpl_x_1299271_energy_energy</source_table>
         <sys_class_name>sys_transform_entry</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-04-14 14:46:12</sys_created_on>
-        <sys_id>14cc8afd476dc210bae1a22f316d437d</sys_id>
+        <sys_created_on>2024-04-19 05:27:36</sys_created_on>
+        <sys_id>d2dc319f83a9c2108a09b0d6feaad371</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>u_emeter_value_kwh</sys_name>
         <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
         <sys_policy/>
         <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
-        <sys_update_name>sys_transform_entry_14cc8afd476dc210bae1a22f316d437d</sys_update_name>
+        <sys_update_name>sys_transform_entry_d2dc319f83a9c2108a09b0d6feaad371</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-14 14:46:12</sys_updated_on>
+        <sys_updated_on>2024-04-19 05:27:36</sys_updated_on>
         <target_field>emeter_value</target_field>
         <target_table>x_1299271_energy_energy</target_table>
         <use_source_script>false</use_source_script>
