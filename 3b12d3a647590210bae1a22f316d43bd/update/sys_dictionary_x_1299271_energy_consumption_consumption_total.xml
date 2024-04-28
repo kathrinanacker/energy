@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="emeter" table="x_1299271_energy_energy">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="consumption_total" table="x_1299271_energy_consumption">
         <active>true</active>
         <array>false</array>
         <attributes/>
@@ -13,7 +13,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Emeter</column_label>
+        <column_label>Consumption Total</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -26,21 +26,21 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>emeter</element>
+        <element>consumption_total</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Reference">reference</internal_type>
+        <internal_type display_value="Decimal">decimal</internal_type>
         <mandatory>false</mandatory>
-        <max_length>32</max_length>
-        <name>x_1299271_energy_energy</name>
+        <max_length>40</max_length>
+        <name>x_1299271_energy_consumption</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference display_value="" name="x_1299271_energy_energy_emeter">x_1299271_energy_energy_emeter</reference>
+        <reference/>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -51,14 +51,14 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-04-05 06:45:41</sys_created_on>
-        <sys_name>Emeter</sys_name>
+        <sys_created_on>2024-04-24 15:50:16</sys_created_on>
+        <sys_name>Consumption Total</sys_name>
         <sys_package display_value="Energy" source="x_1299271_energy">3b12d3a647590210bae1a22f316d43bd</sys_package>
         <sys_policy/>
         <sys_scope display_value="Energy">3b12d3a647590210bae1a22f316d43bd</sys_scope>
-        <sys_update_name>sys_dictionary_x_1299271_energy_energy_emeter</sys_update_name>
+        <sys_update_name>sys_dictionary_x_1299271_energy_consumption_consumption_total</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-25 08:29:03</sys_updated_on>
+        <sys_updated_on>2024-04-24 15:50:16</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="678d214983b10e108a09b0d6feaad3ed" label="Consumption" max_length="40" name="x_1299271_energy_consumption" type="collection">
+        <element label="Consumed" max_length="40" name="consumed" type="glide_date"/>
+        <element label="Consumption BW-In-180" max_length="40" name="consumption_bw_in_180" type="decimal"/>
+        <element label="Consumption BW-Out-280" max_length="40" name="consumption_bw_out_280" type="decimal"/>
+        <element label="Consumption Solar-01" max_length="40" name="consumption_solar_01" type="decimal"/>
+        <element label="Consumption Total" max_length="40" name="consumption_total" type="decimal"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Related actual BW-In-180" max_length="32" name="related_actual_bw_in_180" reference="x_1299271_energy_energy" type="reference"/>
+        <element label="Related actual BW-Out-280" max_length="32" name="related_actual_bw_out_280" reference="x_1299271_energy_energy" type="reference"/>
+        <element label="Related actual Solar-01" max_length="32" name="related_actual_solar_01" reference="x_1299271_energy_energy" type="reference"/>
+        <element label="Related previous BW-In-180" max_length="32" name="related_previous_bw_in_180" reference="x_1299271_energy_energy" type="reference"/>
+        <element label="Related previous BW-Out-280" max_length="32" name="related_previous_bw_out_280" reference="x_1299271_energy_energy" type="reference"/>
+        <element label="Related previous Solar-01" max_length="32" name="related_previous_solar_01" reference="x_1299271_energy_energy" type="reference"/>
+        <index name="index">
+            <element name="related_actual_bw_in_180"/>
+        </index>
+        <index name="index2">
+            <element name="related_actual_bw_out_280"/>
+        </index>
+        <index name="index3">
+            <element name="related_actual_solar_01"/>
+        </index>
+        <index name="index4">
+            <element name="related_previous_bw_in_180"/>
+        </index>
+        <index name="index5">
+            <element name="related_previous_bw_out_280"/>
+        </index>
+        <index name="index6">
+            <element name="related_previous_solar_01"/>
+        </index>
+    </element>
+</database>
